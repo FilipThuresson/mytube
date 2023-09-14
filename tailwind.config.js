@@ -12,6 +12,7 @@ module.exports = {
       'primary': '#f2d939',
       'secondary': '#303030',
       'accent': '#2a1ed4',
+      'transparent': 'transparent',
     },
     extend: {
       backgroundImage: {
